@@ -1,0 +1,13 @@
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\bin\Debug\netstandard2.0\VolumeEasyPeasy.deps.json
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\bin\Debug\netstandard2.0\VolumeEasyPeasy.dll
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\VolumeEasyPeasy.csprojAssemblyReference.cache
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\VolumeEasyPeasy.AssemblyInfoInputs.cache
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\VolumeEasyPeasy.AssemblyInfo.cs
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\bin\Debug\netstandard2.0\ref\VolumeEasyPeasy.dll
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\bin\Debug\netstandard2.0\VolumeEasyPeasy.pdb
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\VolumeEasyPeasy.dll
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\ref\VolumeEasyPeasy.dll
+C:\Users\henry\Documents\VolumeEasyPeasy\VolumeEasyPeasy\VolumeEasyPeasy\obj\Debug\netstandard2.0\VolumeEasyPeasy.pdb
